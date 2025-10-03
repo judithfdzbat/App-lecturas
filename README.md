@@ -11,17 +11,6 @@ App para **gestionar tus lecturas**: añade libros, edítalos, marca progreso y 
 - 📱 Responsive y con estilos componibles (Tailwind + utilidades propias).
 - 🧹 Código organizado: Context API para estado global y componentes pequeños.
 
-## 🚀 Demo
-
-> (Opcional) Despliega en **GitHub Pages**, **Vercel** o **Netlify**.  
-> Ejemplo GitHub Pages con Vite:
->
-> ```bash
-> npm run build
-> npm run preview
-> ```
->
-> Para GitHub Pages puedes usar un workflow o `vite-plugin-gh-pages`.
 
 ## 🛠️ Stack
 
@@ -59,14 +48,4 @@ src/
   index.css
   main.jsx
   App.jsx
-```
 
-## 🔮 Futuras mejoras
-
-- Búsqueda y filtros (autor, estado, progreso).
-- Importar/exportar biblioteca (JSON).
-- Sincronización con un backend.
-
----
-
-Hecho con cariño y papelitos de notas digitales.
